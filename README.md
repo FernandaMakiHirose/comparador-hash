@@ -9,5 +9,5 @@ Biblioteca Hashlib - implementa uma interface comum para muitos algoritmos de ha
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
 
 ## Executar o projeto
-No path `\comparador-hashes` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
+No path `\comparador-hash` (Substitua o `nomedoarquivo` pelo nome do arquivo que você quer executar):
 >python nomedoarquivo.py
